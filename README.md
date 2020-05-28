@@ -18,7 +18,7 @@
 수 있는 사이트로 학원수료 프로젝트입니다.
 
 - 사용기술 : Java, Spring, Oracle, HTML, Ajax, JSP, JavaScript, CSS, Mybatis, Tomcat, AWS(EC2, RDS), FileZilla, Git 등
-- 자세한 설명은 첨부된pdf파일에서 확인가능합니다. (담당파트 및 설명)
+- 자세한 설명은 첨부된pdf파일에서 확인가능합니다. (담당파트 및 설명)<br/>
 
 ## MovyNoty (개봉예정 영화 알람사이트)
  + [소스코드(React,Node) 및 포트폴리오(Readme)](https://github.com/wlsrms9300/MovyNoty)
@@ -28,8 +28,6 @@
 - 사용기술 : React, Node, MongoDB, Nginx, Redux, Git, AWS(EC2, Rout53, SSL), firebase GCM, Putty 등
 - Travis CI, AWS, Docker, Github를 통한 자동배포 테스트
 - 사이트 (https://forthezorba.com/)
-
-
 
 
 
