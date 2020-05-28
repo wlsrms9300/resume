@@ -20,7 +20,7 @@
 
 학원수료 후 진행한 프로젝트로 React/Node를 사용해 만든 사이트입니다. MEGABOX, CGV, LOTTE 영화관에서 개봉예정작을 크롤링 해오고 USER가 알람신청 시 ADMIN이 GCM을 통해 개봉 하루전 웹알람을 보내줍니다.
 
-- 사용기술 : React, Node, MongoDB, Nginx, Git, AWS(EC2, Rout53, SSL), firebase GCM, Putty 등
+- 사용기술 : React, Node, MongoDB, Nginx, Redux, Git, AWS(EC2, Rout53, SSL), firebase GCM, Putty 등
 - 사이트 (https://forthezorba.com/)
 
 
